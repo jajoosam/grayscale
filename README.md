@@ -2,6 +2,8 @@
 
 Games that look like chrome's dino game, but have different gameplay. Right now, I'm building games with phaser! Please build more games if you can!
 
+Hopefully I make a chrome extension with these soon.
+
 ## Flappy Copter
 
 ![Image](http://i.imgur.com/kdRva28.png)

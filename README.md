@@ -13,3 +13,8 @@ http://jajoosam.tech/grayscale/flappy-copter
 http://jajoosam.tech/grayscale/flappy-copter-2
 
 ![Image](http://i.imgur.com/FfJ9LhB.png)
+
+
+## License
+
+All code under http://jajoosam.tech/license
